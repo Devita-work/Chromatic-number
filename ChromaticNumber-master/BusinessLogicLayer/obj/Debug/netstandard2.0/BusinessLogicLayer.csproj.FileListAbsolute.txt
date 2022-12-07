@@ -1,0 +1,19 @@
+E:\Учб\На заказ\ChromaticNumber\BusinessLogicLayer\bin\Debug\netstandard2.0\BusinessLogicLayer.deps.json
+E:\Учб\На заказ\ChromaticNumber\BusinessLogicLayer\bin\Debug\netstandard2.0\BusinessLogicLayer.dll
+E:\Учб\На заказ\ChromaticNumber\BusinessLogicLayer\bin\Debug\netstandard2.0\BusinessLogicLayer.pdb
+E:\Учб\На заказ\ChromaticNumber\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.csprojAssemblyReference.cache
+E:\Учб\На заказ\ChromaticNumber\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\Учб\На заказ\ChromaticNumber\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+E:\Учб\На заказ\ChromaticNumber\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.AssemblyInfo.cs
+E:\Учб\На заказ\ChromaticNumber\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.dll
+E:\Учб\На заказ\ChromaticNumber\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.pdb
+C:\Users\ACER\Desktop\ChromaticNumber-master\BusinessLogicLayer\bin\Debug\netstandard2.0\BusinessLogicLayer.deps.json
+C:\Users\ACER\Desktop\ChromaticNumber-master\BusinessLogicLayer\bin\Debug\netstandard2.0\BusinessLogicLayer.dll
+C:\Users\ACER\Desktop\ChromaticNumber-master\BusinessLogicLayer\bin\Debug\netstandard2.0\BusinessLogicLayer.pdb
+C:\Users\ACER\Desktop\ChromaticNumber-master\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\ChromaticNumber-master\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\ChromaticNumber-master\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\ChromaticNumber-master\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\ACER\Desktop\ChromaticNumber-master\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\ChromaticNumber-master\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.dll
+C:\Users\ACER\Desktop\ChromaticNumber-master\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.pdb

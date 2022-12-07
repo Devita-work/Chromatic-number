@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3xKm2wcs8BhvzRb1oggSOLtRTqxvCiK0eJPs9Befy+/Ck08/F1KB8xPOxEmn2vvlNxZSSerIaNRpLFEGqGjlYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACER\\Desktop\\ChromaticNumber-master\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
